@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.pre-header {
+    background-color: black;
+    height: 40px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 900px;
+    font-size: 25px;
+}
+.pozadina {
+    background-color: white;
+    height: 897px;
+}
+
+.pozadina .naslov {
+    padding-top: 13px;
+    padding-left: 200px;
+    color: dimgray;
+    font-size: 50px;
+}
+.pozadina .tekst {
+    padding-top: 30px;
+    padding-left: 230px;
+    color: gray;
+    font-size: 25px;
+}
